@@ -13,7 +13,7 @@
 
 6 - Entrar na pasta que foi criado com o comando *cd* ex: cd pythonexpress
 
-7 - Clonar o repositório do github <code> HTTPS (copiar)
+7 - Clonar o repositório do github *<code>* HTTPS (copiar)
 
 8 - Aplicar o comando *git clone* no terminal ex: git clone https://github.com/Lari-Lopes/Pythonexpressautomacao.git (colar)
 
