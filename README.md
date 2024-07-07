@@ -31,4 +31,10 @@
 
 15 - Executar o comando *clear* para limpar a tela
 
-16 - 
+16 - Fazer as alterações no código
+
+17 - Salvar as alterações feitas no github com os seguintes comandos em sequência: git add . --> git commit -m "nome alteração" ---> git push origin HEAD
+
+18 - Ir para o github e criar o pull request ---> selecionar a opção squash $ merge" 
+
+19 - Mudar para a branch main e atualizá-la ---> git checkout main ---> git pull origin main
