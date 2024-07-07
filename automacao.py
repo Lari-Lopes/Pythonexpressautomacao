@@ -43,7 +43,7 @@ for linha in tabela.index:
     pyautogui.press("tab")
     pyautogui.press("enter")
     time.sleep(3)
-    pyautogui.scroll(5000)
+    pyautogui.scroll(500000)
 
 
 
